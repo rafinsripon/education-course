@@ -16,18 +16,12 @@ body{
     img.d-block.w-100 {
         height: 440px;
     }
-    /* .heading{
-        width: 100% !important;
-    }
-    .heading h2{
-        font-size: 23px !important;
-    }
-    .heading p{
-        font-size: 14px;
-    } */
     button.btn {
         width: 50% !important;
         font-size: 15px;
+    }
+    .display-none{
+        display: none;
     }
 }
 @media screen and (min-width: 577px) and (max-width: 768px){
